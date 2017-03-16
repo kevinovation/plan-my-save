@@ -1,0 +1,9 @@
+C:\Users\Kevin\Projet\kevinovation\plan-my-save\Kevinovation.PlanMySave\bin\Debug\netcoreapp1.1\Kevinovation.PlanMySave.deps.json
+C:\Users\Kevin\Projet\kevinovation\plan-my-save\Kevinovation.PlanMySave\bin\Debug\netcoreapp1.1\Kevinovation.PlanMySave.runtimeconfig.json
+C:\Users\Kevin\Projet\kevinovation\plan-my-save\Kevinovation.PlanMySave\bin\Debug\netcoreapp1.1\Kevinovation.PlanMySave.runtimeconfig.dev.json
+C:\Users\Kevin\Projet\kevinovation\plan-my-save\Kevinovation.PlanMySave\obj\Debug\netcoreapp1.1\Kevinovation.PlanMySave.AssemblyInfo.cs
+C:\Users\Kevin\Projet\kevinovation\plan-my-save\Kevinovation.PlanMySave\bin\Debug\netcoreapp1.1\Kevinovation.PlanMySave.dll
+C:\Users\Kevin\Projet\kevinovation\plan-my-save\Kevinovation.PlanMySave\bin\Debug\netcoreapp1.1\Kevinovation.PlanMySave.pdb
+C:\Users\Kevin\Projet\kevinovation\plan-my-save\Kevinovation.PlanMySave\obj\Debug\netcoreapp1.1\Kevinovation.PlanMySave.dll
+C:\Users\Kevin\Projet\kevinovation\plan-my-save\Kevinovation.PlanMySave\obj\Debug\netcoreapp1.1\Kevinovation.PlanMySave.pdb
+C:\Users\Kevin\Projet\kevinovation\plan-my-save\Kevinovation.PlanMySave\obj\Debug\netcoreapp1.1\Kevinovation.PlanMySave.csprojResolveAssemblyReference.cache
